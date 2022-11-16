@@ -1,0 +1,13 @@
+.head{
+  padding: 100px;
+   color: darkblue;
+   background-color: brown;
+
+}
+.milieu{
+    padding: 170px;
+}
+.foot{
+    background-image:url(img/télécharger.png);
+    padding: 150px;
+}
